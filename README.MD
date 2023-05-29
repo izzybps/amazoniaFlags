@@ -4,7 +4,7 @@ Repository containing .png files for most of the cities of the Brazilian "Amazô
 
 ## Structure
 
-The Flags are separated in folders named by the official state abbreviation code, and the file name is the IBGE code of the city.
+The Flags are separated in folders named by the official state abbreviation code, and the file name is the IBGE code of the city. You can get every city from a state using the IBGE Locality API (https://servicodados.ibge.gov.br/api/docs/localidades#api-Municipios-estadosUFMunicipiosGet) (e.g. https://servicodados.ibge.gov.br/api/v1/localidades/estados/PA/municipios). That way it's pretty easy to use this dataset.
 
 ## Sources
 
